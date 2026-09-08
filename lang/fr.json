@@ -1,0 +1,54 @@
+{
+    "Dashboard": "Tableau de bord",
+    "Contact": "Contact",
+    "Uitloggen": "Se déconnecter",
+
+    "Booking assistant Rijbewijs B - Belgie": "Assistant de réservation Permis B - Belgique",
+    "Voor slechts €35 schrijft ons programma jou automatisch in voor een rijexamen. Wij vinden meestal binnen 2 weken een plek in plaats van 6 maanden wachten!": "Pour seulement 35€, notre programme vous inscrit automatiquement à un examen de conduite. Nous trouvons généralement une place dans les 2 semaines au lieu de 6 mois d'attente !",
+    "Neem met ons contact": "Contactez-nous",
+    "Wat onze gebruikers zeggen": "Ce que disent nos utilisateurs",
+    "Meer dan 1.000 tevreden gebruikers hebben hun examen eerder kunnen doen": "Plus de 1 000 utilisateurs satisfaits ont pu passer leur examen plus tôt",
+
+    "Neem contact met ons op": "Contactez-nous",
+    "Heb je een vraag? We horen graag van je.": "Vous avez une question ? Nous aimerions avoir de vos nouvelles.",
+    "Gelukt!": "Réussi !",
+    "Fout": "Erreur",
+    "Naam": "Nom",
+    "Email": "E-mail",
+    "Bericht": "Message",
+    "Versturen...": "Envoi en cours...",
+    "Verstuur bericht": "Envoyer le message",
+    "OF": "OU",
+    "Neem contact met ons op via Instagram": "Contactez-nous via Instagram",
+    "Bedankt voor je bericht! We nemen zo snel mogelijk contact met je op.": "Merci pour votre message ! Nous vous contacterons dans les plus brefs délais.",
+    "Er is iets misgegaan. Probeer het later opnieuw.": "Une erreur s'est produite. Veuillez réessayer plus tard.",
+
+    "Veelgestelde Vragen": "Questions fréquentes",
+    "Zijn jullie verbonden aan SBAT of een examencentrum?": "Êtes-vous liés au SBAT ou à un centre d'examen ?",
+    "Nee, Rijbewijsboeker is op geen enkele manier verbonden aan, geassocieerd met of onderdeel van SBAT nv of enig ander examencentrum. Wij zijn een onafhankelijke dienst die u helpt bij het vinden en boeken van beschikbare examendata.": "Non, Rijbewijsboeker n'est en aucune manière lié, associé ou affilié à SBAT nv ou tout autre centre d'examen. Nous sommes un service indépendant qui vous aide à trouver et réserver des dates d'examen disponibles.",
+    "Welke gegevens bewaren jullie en waarom?": "Quelles données conservez-vous et pourquoi ?",
+    "Wij bewaren enkel de gegevens die noodzakelijk zijn om u in te schrijven voor een rijexamen, zoals uw naam, e-mailadres en eventueel de gegevens die vereist zijn door het examencentrum (bv. rijksregisternummer, geboortedatum, adres). Deze gegevens worden uitsluitend gebruikt om uw boeking uit te voeren en worden niet verkocht of gedeeld met derden.": "Nous ne conservons que les données nécessaires pour vous inscrire à un examen de conduite, telles que votre nom, adresse e-mail et éventuellement les données requises par le centre d'examen (par ex. numéro de registre national, date de naissance, adresse). Ces données sont exclusivement utilisées pour effectuer votre réservation et ne sont ni vendues ni partagées avec des tiers.",
+    "Hoe lang worden mijn gegevens bewaard?": "Combien de temps mes données sont-elles conservées ?",
+    "Uw gegevens worden bewaard zolang uw account actief is. U kunt op elk moment uw account en alle bijbehorende gegevens laten verwijderen via de instellingen of door contact op te nemen via rijbewijsboeker@gmail.be.": "Vos données sont conservées tant que votre compte est actif. Vous pouvez à tout moment faire supprimer votre compte et toutes les données associées via les paramètres ou en nous contactant à rijbewijsboeker@gmail.be.",
+    "Wat zijn mijn rechten met betrekking tot mijn gegevens?": "Quels sont mes droits concernant mes données ?",
+    "Conform de GDPR heeft u recht op inzage, wijziging, verwijdering en overdracht van uw persoonsgegevens. Ook heeft u het recht om bezwaar te maken tegen de verwerking of een beperking van de verwerking te vragen. U kunt deze rechten uitoefenen door contact op te nemen via rijbewijsboeker@gmail.be.": "Conformément au RGPD, vous avez le droit d'accéder, de modifier, de supprimer et de transférer vos données personnelles. Vous avez également le droit de vous opposer au traitement ou de demander une limitation du traitement. Vous pouvez exercer ces droits en nous contactant à rijbewijsboeker@gmail.be.",
+    "Is dit legaal?": "Est-ce légal ?",
+    "Ja, onze service is volledig legaal. Wij maken gebruik van openbaar toegankelijke informatie op de websites van examencentra en automatiseren het proces van het controleren op beschikbaarheid, wat u anders handmatig zou moeten doen. Wij handelen hierbij in opdracht en met toestemming van de gebruiker.": "Oui, notre service est entièrement légal. Nous utilisons des informations accessibles au public sur les sites web des centres d'examen et automatisons le processus de vérification de la disponibilité, ce que vous devriez autrement faire manuellement. Nous agissons sur instruction et avec le consentement de l'utilisateur.",
+
+    "Inloggen op je account": "Connectez-vous à votre compte",
+    "Voer je e-mail en wachtwoord in om in te loggen": "Entrez votre e-mail et mot de passe pour vous connecter",
+    "E-mailadres": "Adresse e-mail",
+    "Wachtwoord": "Mot de passe",
+    "Wachtwoord vergeten?": "Mot de passe oublié ?",
+    "Onthoud mij": "Se souvenir de moi",
+    "Inloggen": "Se connecter",
+
+    "Welke regios supporten wij?": "Quelles régions prenons-nous en charge ?",
+    "Wij ondersteunen momenteel de volgende examencentra: Sint-Denijs-Westrem, Brakel, Eeklo, Erembodegem en Sint-Niklaas.": "Nous prenons actuellement en charge les centres d'examen suivants : Sint-Denijs-Westrem, Brakel, Eeklo, Erembodegem et Sint-Niklaas.",
+
+    "Wat doen wij precies?": "Que faisons-nous exactement ?",
+    "Wij hebben een programma dat automatisch beschikbare examenplekken monitort en jou direct kan inschrijven zodra er een plek vrijkomt. Voor slechts €35 regelen wij een examenplek voor jou, meestal binnen 2 weken in plaats van de gebruikelijke 6 maanden wachttijd. Belangrijk: wij zijn de eerste die informatie ontvangen over een nieuwe plek, maar als er geen nieuwe plek vrijkomt kunnen wij daar natuurlijk niets aan doen. Volgens onze data komen er regelmatig plekken vrij en wij hebben nog nooit een probleem gehad om binnen 2 weken een plek te vinden.": "Nous avons un programme qui surveille automatiquement les places d'examen disponibles et peut vous inscrire directement dès qu'une place se libère. Pour seulement 35€, nous vous trouvons une place d'examen, généralement dans les 2 semaines au lieu des 6 mois d'attente habituels. Important : nous sommes les premiers à recevoir les informations sur une nouvelle place, mais si aucune nouvelle place ne se libère, nous ne pouvons naturellement rien y faire. Selon nos données, des places se libèrent régulièrement et nous n'avons jamais eu de problème pour trouver une place dans les 2 semaines.",
+
+    "Belangrijk!": "Important !",
+    "Als u met uw rijschool rijdt, contacteer dan uw rijschool. Indien u een voertuig van een rijschool gebruikt moet dit via uw desbetreffende rijschool geregeld worden. Gelieve hen te contacteren zodat zij dit in orde kunnen brengen. Wij kunnen u hierbij niet helpen!": "Si vous conduisez avec une auto-école, veuillez contacter votre auto-école. Si vous utilisez un véhicule d'une auto-école, cela doit être organisé par votre auto-école concernée. Veuillez les contacter afin qu'ils puissent s'en occuper. Nous ne pouvons pas vous aider à ce sujet !"
+}
